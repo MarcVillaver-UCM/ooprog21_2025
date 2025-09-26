@@ -8,8 +8,8 @@ public class DebugPen{
    }
    
    public DebugPen(String color, String point){
-      this.color = color;// use "this" to assign the parameter to the object variable
-      this.point = point;// use "this" to assign the parameter to the object variable
+      this.color = color; // use "this" to assign the parameter to the object variable
+      this.point = point; // use "this" to assign the parameter to the object variable
    }
    
    public String getColor(){
@@ -20,3 +20,4 @@ public class DebugPen{
       return point;
    }
 }
+
