@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CompareStrings {
+class CompareStrings {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String predefined = "Carmen";
@@ -16,4 +16,5 @@ public class CompareStrings {
 
         scanner.close();
     }
+
 }
